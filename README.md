@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tolu118
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Mechatronic engineering
+- 🌱 I’m currently a Researcher at the university of Manchester
 - 💞️ I’m looking to collaborate on robotic projects
 - 📫 How to reach me = email: tolusoboyejo@ymail.com, number: 07885288124
 
